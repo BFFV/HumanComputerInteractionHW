@@ -1,2 +1,2 @@
-# HumanComputerInteractionHW
-Project for IIC3182 - Human-Computer Interaction.
+# Human Computer Interaction HW
+Homework for IIC3182 - Human-Computer Interaction.
