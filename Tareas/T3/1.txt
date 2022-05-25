@@ -1,0 +1,127 @@
+Speaker 1: Hola bienvenido, ¿cómo estás?.
+Speaker 0: Bien, ¿y tú?.
+Speaker 1: Bien bien gracias.
+Speaker 1: Bueno, estamos aquí para una entrevista sobre temas de las tecnologías que se ocupan en los cursos remotos para la universidad.
+Speaker 1: Y te quería entrevistar a tí para obtener información sobre esto para un curso de interfaces que estoy haciendo.
+Speaker 1: Entonces para empezar, ¿cuál es tu nombre?.
+Speaker 0: Mi nombre es Vicente Guzmán.
+Speaker 1: ¿Y cuál es tu edad?.
+Speaker 0: Tengo 23 años.
+Speaker 1: ¿En dónde vives?.
+Speaker 0: En la ciudad de Santiago en la comuna de Las Condes (Chile).
+Speaker 1: ¿Qué carrera estás estudiando?.
+Speaker 0: Estoy estudiando la carrera de ingeniería civil en la universidad católica.
+Speaker 1: Perfecto esa era justo mi siguiente pregunta (*universidad donde estudia). 
+Speaker 1: Ya ahora para esta entrevista necesito que entregues tu consentimiento de que va a ser grabada y posteriormente analizada.
+Speaker 0: Sí por supuesto, entrego mi consentimiento.
+Speaker 1: Perfecto gracias. Entonces ahora vamos a empezar con las preguntas sobre el tema.
+Speaker 1: Primero, ¿durante cuántos semestres tuviste mayoritariamente cursos de modalidad remota hasta ahora?.
+Speaker 0: Bueno, durante los dos semestres del año 2020... más los dos semestres del año 2021.
+Speaker 0: Sin embargo el segundo semestre del 2021 fue más bien híbrido más que remoto.
+Speaker 1: Ya, ¿igual tuviste algo así como 50/50 en ese semestre?.
+Speaker 0: Claro, porque tuve evaluaciones presenciales pero las clases remotas, esa era la diferencia con los otros semestres anteriores.
+Speaker 1: Ya perfecto. Entonces ahora pensando durante el resto de la entrevista en esos semestres que tuviste hartas cosas remotas en tus cursos. 
+Speaker 1: Quiero que me cuentes sobre las herramientas cloud que haz usado en estos cursos, con cloud aquí me refiero a zoom, google meet, etc... que típicamente se ocupan para videollamadas, las clases, y todo eso.
+Speaker 0: Lo que más ocupamos para las clases era zoom que era la plataforma elegida por la universidad... y también ocupe en algunas ocasiones google meet.
+Speaker 0: A nivel personal también ocupé discord.
+Speaker 0: Tanto para hacer trabajos como para hacer tareas.
+Speaker 1: Ok, y segundo, ¿qué tan útiles y cómodas las encontraste, a todas estas herramientas?.
+Speaker 0: Estas eran útiles porque obviamente permiten a cualquiera conectarse desde cualquier parte... pero obviamente tienen limitantes.
+Speaker 0: Y esas limitantes bueno son varias, por ejemplo hay algunos compañeros que me pasó que cuando teníamos prueba o incluso la clase no tenían buen internet y entonces se desconectaban, o algunos que dejaban su micrófono abierto y sonaban ruidos, etc... entonces se entorpecía la clase o evaluación.
+Speaker 0: Y también otra dificultad, esto tiene que ver más con la aplicación en realidad, es que muchos compañeros conectando la proa la evaluación por sun es el exigieron de la cámara.
+Speaker 0: Y estar pendientes del hada pone ahora.
+Speaker 1: Y.
+Speaker 0: Pero mucho mucho otro compañero no están tan concentrado en el en el chad del zoom entonces por ejemplo si el profesor aclaraba algo de la prueba eh no no presta atención eso como que le entorpecía la desarrolle al final nunca se enteró de que había que corregir al por ejemplo el profesor tampoco lo decía por parlante entonces no se entendía, eso a nivel de evaluación.
+Speaker 1: Ya perfecto.
+Speaker 1: Eh ya verá una cosa sobren igual cómo realizamos recién largamente activado.
+Speaker 0: Te.
+Speaker 1: Quiero que me cuentes sobre tu experiencia otra vez pero ahora con las herramientas tipo web por ejemplo páginas web los portales de la universidad o de los ramos que ocupa y por no entregar los trabajos entender.
+Speaker 0: Ya así como a nivel de página web bueno en la universidad la católica usamos canvas entonces que es una herramienta super útil porque agrupa todo el material de todos los ramos y un estar del lado por semestre y von por contenido y por comida entonces de qué súper como.
+Speaker 0: En lo que sigue obviamente esas come ra mienta también tienen problemas así como como como sun por qué.
+Speaker 0: Algunas por ejemplo las notificaciones, anuncios y avisos que se enviaban en los foros de canvas a veces llegan tarde como al médico las notificaciones y esa cuestión te voy a perjudicar por ejemplo aviso de que cuando se entrega la tarea se habían uno ayudantía y ese tipo de cosas.
+Speaker 1: Ya tienen.
+Speaker 1: Y.
+Speaker 1: Y quedan dos alan contrataría no tires sólo quedarían como están como detalles que no eran tan sí.
+Speaker 0: Por ejemplo en la pandemia lo que más usamos fue prácticamente canvas pero por ejemplo hay otra plataforma que es siding que ve que la mente es la de ingeniería pero ésta no lo jugamos prácticamente nunca porque no oculta ningún herramienta ningún material para para el desarrollo del del ramo de lo raro no.
+Speaker 1: Man.
+Speaker 1: Ya.
+Speaker 1: Perfecto.
+Speaker 1: Y ahora hablando más generalmente.
+Speaker 1: Cuál según tú con esa ando ventajas de haber tenido estos cursos de forma remota respecto de los tenido presencialmente durante estos semestres.
+Speaker 0: Ya, obviamente la respuesta a esta pregunta relativa porque cada persona tiene una realidad diferente número por ejemplo en el caso de yo no no no vivo cerca de la universidad entonces o sea no vivo tan cerca lo inicia entonces todo el tiempo de traslado me significó que la clase remota con qué mire me dieron muchísimo más tiempo de estudio y preparación para parar ramón.
+Speaker 0: Vi que no era no era no era menor el tiempo entonces.
+Speaker 0: Y una al contar con más tiempo.
+Speaker 0: Obviamente el rendimiento es mejor y yo creo que eso le pasó a mucha mucha gente y mejoró la nota no sólo porque era más fácil en la red a un por qué la dificultará menor sino porque tenía más tiempo veinte pero también tenía dificultades porque como dije antes.
+Speaker 0: Los problemas de internet eh la conectividad.
+Speaker 0: La interrupción en clase a veces hacéis difícil como concentrarse y estar como pendiente la clase.
+Speaker 0: Y y pero como a nivel como de.
+Speaker 0: Al cómo decirlo.
+Speaker 0: En co porque depende de cada uno sí urgente uno se conectaban a la clase entonces por ejemplo hay compañeros que que ya ya sabían que la gracia se graba preferían no buenas personas las envió y simplemente vea la grabación entonces me van a clase y eso a la estructura el profesor porque por ejemplo allá en proceso de melo con en algún ramo de ingeniería eléctrica que que se conectaban y habían tres personas y éramos sesenta alumnos hace diez mil uno entonces.
+Speaker 0: Era muy era un frustrante del procesador el proceso no manda a medir reclamando y y al final todos veíamos la clase grada que es digamos como por decreto de la universidad.
+Speaker 0: Se tenían que grabar y quedan en la nube y eso eso también era muy bueno porque en el fondo tú te voy a conectar en cualquier momento y que ocupará el mal es.
+Speaker 1: Ya lo saben de eso me pararé las principales ventajas que mucho también debas saber que por vivir lejos tenía más tiempo para editar las cosas a lo estudié.
+Speaker 0: Claro.
+Speaker 1: De tu casa sin tener que moverte danzón y que no afectó tanto la nociones porque se podían hacer igual con la intención de cierta siendo ciertos protocolos.
+Speaker 1: Y al final.
+Speaker 1: Beneficiado y mayoritariamente en las notas y todo es.
+Speaker 0: Pero si.
+Speaker 1: Si.
+Speaker 0: Sé hacemos como un balance general en la clase remota tenían más más pros que contra porque.
+Speaker 0: Al final.
+Speaker 0: Es una herramienta que te sirvió para aprender y un día digamos ya la la la ra mienta deja hacer e como la presencia aliada sino netamente como tu atención y tu voluntad brendan porque voy a aprender en cualquier lugar no necesariamente en un espacio con un determinado.
+Speaker 0: Como la amnesia.
+Speaker 1: Ya okay.
+Speaker 1: Y me mostró que mencionan tener desventajas ahí en medio de lo que está hablando pero por ser case vuelvan a generalizar loma y ahora solamente diecinueve como desventajas de no que en es hacer esto don moler todavía no hemos.
+Speaker 0: Ya principalmente la coordinación entre los profesores los alumnos por qué.
+Speaker 0: El profesor pretenda ser una clase y tener alumnos digamos conectado y lo los alumnos y no se conectan en.
+Speaker 0: Es.
+Speaker 0: Profesor solamente le hablará de hablar alguien pasársela al así mismo y la el problema es yo diría que el problema más grande con la clase remota con la de los remos de general es que.
+Speaker 0: Si uno.
+Speaker 0: Tiene acceso al material pero tienen poco tiempo para revisarlo no lo revisa que al final se torcedor ben tiene algo completamente inútil por que.
+Speaker 0: Por más por ejemplo pruebas pasadas que uno puede hacer que estaban en en camba as o un o de ser la sede de la forma si uno no hace eso al final le va el mal en la prueba no aprender en y en no aprender no.
+Speaker 1: Josh.
+Speaker 0: Y.
+Speaker 1: Decir lo mismo se hicieron men.
+Speaker 0: No eso eso yo creo que lo peor porque al final la idea de la clase remota es que como que se se permite continuar aprendiendo el contenido cachái.
+Speaker 0: Pero pero sí de ahí a que sea de mejor o peor forma.
+Speaker 0: Depende de obviamente la calidad como de la de la plataforma over ross ya sea sun camba se tendrá.
+Speaker 0: Pero todo eso parte de la base de que el alumno se va a conectar y hacer responsables y si no hace esto en un como que falla toda la cadena realiza.
+Speaker 1: Ya entendí sea por el lado del bien final tanto disponible cuando susana maría remoto y esa ayuda harto pero por otro lado también es como doble fila porque al nuestro ligado a tal como en una sala o está directamente allí como viendo el profesor puede ver gente que.
+Speaker 0: Se.
+Speaker 1: Motive.
+Speaker 0: Con.
+Speaker 1: Defiende que el adoptado de nuevo incluso dinero disponible no es de por ejemplo.
+Speaker 0: Por ejemplo una de las de uno otro de los problemas que me pasó a mí en un ramo fue que ejemplos zum de deja las clases grabadas program tu tiempo entonces lo que hacian algunos profesores era que descartar millán descargar la clase y la junta en un traje en gun trae mi.
+Speaker 0: La playa juntando y así todo el mundo las podía ver cambiarían al otro que decían como que como que uno tenía que verla inmediatamente entonces uno tenía dos semanas se presentó había algunos que esta trastada nos olvidan por cualquier motivo de verla y se ha trazado un montón y perdían contenido de ahí aumenta aumenta los problemas.
+Speaker 1: Debe ser.
+Speaker 1: Y ahora uno tiene preguntan en en en e entonces sobre qué cambiarías ok crees que faltó para que el precio fuera mejor en estos cursos remotos.
+Speaker 0: Lea bueno de respuesta personal muy bien personal por qué.
+Speaker 0: M yoduro de fausto por thomas h el interés es la respuesta lo porque yo creo que falta más participación.
+Speaker 0: Porque pero en el en el sentido de que.
+Speaker 0: Hay cursos sobre todo en la carrera que estudié ingeniería que son muy masivos y a esos cursos.
+Speaker 0: A veces se requiere cierto grado de en cercanía entre el profesor y el alumno para hacer pregunta o o quedarse incluso conversando de cualquier otro tema actual de la proa digamos como generando comunidad por así decirlo ella le y el problema de que claro acá tenía un horario establecido y y claro del empresa una clase del profesor hacia la clase termina la clase y eso era todo y todo el el entre comillas interacción era por el chad que por ejemplo en algunos curso habíamos ciento cincuenta conectado y eran puros celu como hola hola hola hola cómo está hola cómo está cómo está entonces ésta no tenía ningún sentido y además los que revisan el chat tenían.
+Speaker 0: Qué mensaje hicieran que no hacían mucha información se encargó por ejemplo entre doce diálogo hay una pregunta importante en compañeros de pollo ayudar aprender otra cosa que que no se sabía por ejemplo.
+Speaker 0: Eso eso yo creo que que falta mejorar como la forma de sincerar la int los comentarios por ejemplo d del proceso.
+Speaker 1: Ya va buena idea como el tema de al final de promover el es entregado en por ejemplo del a mil.
+Speaker 0: A mí en lo personal me baso pasos varias veces que yo quería hacer una pregunta el profesor y levantaba la mano porque son permite esta esta aplicación de levantar la mano.
+Speaker 1: Ya.
+Speaker 0: Es y el profesor bueno en este ramo.
+Speaker 0: Tú te ponían en puntos por participación que eran voluntarios y y te da una bonificación pero resulta que siempre participar los bienes cuándo y cómo era con mucho el profesor no le voy a dar la palabra a más de diez personas porque la clase está retrasado mucho perdían por lo menos quince minutos entonces el progreso lo que hacian a seleccionar a los diez primeros entonces por ejemplo comenzar la ronda de preguntas inmediatamente esta siempre los mismos conectado yo nunca voy a preguntar nada ni dar punto entonces ahí digamos se perdía la el sentido cómo está bien que participen todos pero no siempre lo mismo.
+Speaker 0: Lo mismo me pasa al final de otra clase pero esto sin puntos por participación en otro remo.
+Speaker 1: M.
+Speaker 0: Yo le quería hacer una pregunta el profesor.
+Speaker 0: Al final de la clase y había otro compañero preguntándole por ejemplo el que hacían inca sobre tomes horario del del examinó de otra prueba o comer hasta la tarea que como usted tal cosa es solo no le voy a preguntar contenidos del de la clase misma entonces.
+Speaker 0: Hay también se perdió el sentido del que la clase la realizan.
+Speaker 1: Ya claro como que sería mucho mejor que esto era más separado como los canales dependiendo de dúos.
+Speaker 0: Con.
+Speaker 1: Cola de dion.
+Speaker 0: Claro pero por ejemplo hay algunos ramos josé m por ejemplo en el innovación s había un ayudante que que están conectados como un como profesor ayudante en el chad y contestan preguntas y eso eso fue súper bueno porque tenía it dos tres ayudantes que porten el chan reponiendo pregunta y el profesor se encarga responde el de saber hacer la clase en y después diga amo se hacía un repaso esto será todo todo expedito y y y bueno.
+Speaker 1: Net como asistente.
+Speaker 0: Claro pero no todos lo hacen sheraton.
+Speaker 1: Ya perfecto.
+Speaker 1: Bueno ese será un tema pregunta que tenía vicente sí muchas gracias por tu tiempo y por tu respuesta.
+Speaker 0: Yago.
+Speaker 1: Hace nada de.
+Speaker 1: C ocho d tenga un buen día en.
+Speaker 0: El evento.
+Speaker 1: Adiós.
