@@ -1,0 +1,77 @@
+\item \textbf{Benja:} Hola bienvenido, ¿cómo estás?.
+\item \textbf{Vicente:} Bien, ¿y tú?.
+\item \textbf{Benja:} Bien bien gracias.
+\item \textbf{Benja:} Bueno, estamos aquí para una entrevista sobre temas de las tecnologías que se ocupan en los cursos remotos para la universidad.
+\item \textbf{Benja:} Y te quería entrevistar a tí para obtener información sobre esto para un curso de interfaces que estoy haciendo.
+\item \textbf{Benja:} Entonces para empezar, ¿cuál es tu nombre?.
+\item \textbf{Vicente:} Mi nombre es Vicente Guzmán.
+\item \textbf{Benja:} ¿Y cuál es tu edad?.
+\item \textbf{Vicente:} Tengo 23 años.
+\item \textbf{Benja:} ¿En dónde vives?.
+\item \textbf{Vicente:} En la ciudad de Santiago en la comuna de Las Condes (Chile).
+\item \textbf{Benja:} ¿Qué carrera estás estudiando?.
+\item \textbf{Vicente:} Estoy estudiando la carrera de ingeniería civil en la universidad católica.
+\item \textbf{Benja:} Perfecto esa era justo mi siguiente pregunta (*universidad donde estudia). 
+\item \textbf{Benja:} Ya ahora para esta entrevista necesito que entregues tu consentimiento de que va a ser grabada y posteriormente analizada.
+\item \textbf{Vicente:} Sí por supuesto, entrego mi consentimiento.
+\item \textbf{Benja:} Perfecto gracias. Entonces ahora vamos a empezar con las preguntas sobre el tema.
+\item \textbf{Benja:} Primero, ¿durante cuántos semestres tuviste mayoritariamente cursos de modalidad remota hasta ahora?.
+\item \textbf{Vicente:} Bueno, durante los dos semestres del año 2020... más los dos semestres del año 2021.
+\item \textbf{Vicente:} Sin embargo el segundo semestre del 2021 fue más bien híbrido más que remoto.
+\item \textbf{Benja:} Ya, ¿igual tuviste algo así como 50/50 en ese semestre?.
+\item \textbf{Vicente:} Claro, porque tuve evaluaciones presenciales pero las clases remotas, esa era la diferencia con los otros semestres anteriores.
+\item \textbf{Benja:} Ya perfecto. Entonces ahora pensando durante el resto de la entrevista en esos semestres que tuviste hartas cosas remotas en tus cursos. 
+\item \textbf{Benja:} Quiero que me cuentes sobre las herramientas cloud que haz usado en estos cursos, con cloud aquí me refiero a zoom, google meet, etc... que típicamente se ocupan para videollamadas, las clases, y todo eso.
+\item \textbf{Vicente:} Lo que más ocupamos para las clases era zoom que era la plataforma elegida por la universidad... y también ocupé en algunas ocasiones google meet.
+\item \textbf{Vicente:} A nivel personal también ocupé discord.
+\item \textbf{Vicente:} Tanto para hacer trabajos como para hacer tareas.
+\item \textbf{Benja:} Ok, y segundo, ¿qué tan útiles y cómodas las encontraste, a todas estas herramientas?.
+\item \textbf{Vicente:} Estas eran útiles porque obviamente permiten a cualquiera conectarse desde cualquier parte... pero obviamente tienen limitantes.
+\item \textbf{Vicente:} Y esas limitantes bueno son varias, por ejemplo hay algunos compañeros que me pasó que cuando teníamos prueba o incluso la clase no tenían buen internet y entonces se desconectaban, o algunos que dejaban su micrófono abierto y sonaban ruidos, etc... entonces se entorpecía la clase o evaluación.
+\item \textbf{Vicente:} Y también otra dificultad, esto tiene que ver más con la aplicación en realidad, es que a muchos compañeros cuando estaban dando la evaluación por zoom se les exigía tener prendida la cámara.
+\item \textbf{Vicente:} Y estar pendientes del chat.
+\item \textbf{Vicente:} Pero muchos otros compañeros no estaban tan concentrados en el chat del zoom y entonces por ejemplo si el profesor aclaraba algo de la prueba, no prestaban atención y eso como que les entorpecía el desarrollo y al final nunca se enteraban de que había que corregir algo por ejemplo.
+\item \textbf{Vicente:} El profesor tampoco lo decía por parlante entonces no se entendía, eso a nivel de evaluación.
+\item \textbf{Benja:} Ya perfecto.
+\item \textbf{Benja:} Ahora quiero que me cuentes sobre tu experiencia otra vez pero con las herramientas tipo web, por ejemplo páginas web, los portales de la universidad o de los ramos que ocupas cuando entregas los trabajos, etc...
+\item \textbf{Vicente:} Ya así como a nivel de página web, bueno en la universidad católica usamos canvas que es una herramienta super útil porque agrupa todo el material de todos los ramos y está ordenado por semestre y por contenido y por unidad entonces es super cómodo.
+\item \textbf{Vicente:} Lo que sí, obviamente esas herramientas también tienen problemas así como zoom porque...
+\item \textbf{Vicente:} Por ejemplo las notificaciones, anuncios y avisos que se enviaban en los foros de canvas a veces llegaban tarde al mail y eso te podía perjudicar.
+\item \textbf{Benja:} Ya entiendo.
+\item \textbf{Benja:} Entonces las encontraste bien útiles, sólo que tenían estos detalles mejorables.
+\item \textbf{Vicente:} Sí, en la pandemia lo que más usamos fue canvas pero por ejemplo hay otra plataforma que es siding que también es de ingeniería pero esa no la ocupamos prácticamente nunca porque no ocultaba ninguna herramienta, ningún material para el desarrollo de los ramos.
+\item \textbf{Benja:} Perfecto.
+\item \textbf{Benja:} Y ahora hablando más generalmente.
+\item \textbf{Benja:} ¿Cuáles según tú son las ventajas de haber tenido estos cursos de forma remota, respecto de haberlos tenido presencialmente durante estos semestres?
+\item \textbf{Vicente:} Ya, obviamente la respuesta a esta pregunta es relativa porque cada persona tiene una realidad diferente pero por ejemplo en mi caso yo no vivo cerca de la universidad, entonces todo el tiempo de traslado me significó que las clases remotas me dieron muchísimo más tiempo de estudio y preparación para los ramos.
+\item \textbf{Vicente:} Y que no era menor el tiempo, y uno al contar con más tiempo obviamente el rendimiento es mejor y yo creo que eso le pasó a mucha gente, que mejoró la nota no sólo porque era más fácil en la red o por qué la dificultad era menor, sino porque tenía más tiempo para estudiar.
+\item \textbf{Vicente:} Pero también tenía dificultades como dije antes. Los problemas de internet, la conectividad, la interrupción en clases... a veces se hace difícil concentrarse y estar pendiente en la clase.
+\item \textbf{Vicente:} Porque depende de cada uno si uno se conectaba o no a la clase, entonces por ejemplo hay compañeros que ya sabían que la clase iba a ser grabada y preferían simplemente ver la grabación, entonces no van a clase y eso a la vez frustra al profesor. 
+\item \textbf{Vicente:} Por ejemplo me tocó en algunos ramos de ingeniería eléctrica que se conectaban y habían tres personas y éramos sesenta alumnos.
+\item \textbf{Vicente:} Entonces era muy frustrante para el profesor, que mandaba mails reclamando, y al final todos veíamos las clases grabadas que por decreto de la universidad se tenían que grabar y quedaban en la nube. Y eso también era muy bueno porque en el fondo tú te puedes conectar en cualquier momento y ocupar el material.
+\item \textbf{Benja:} Ya entonces para tí las principales ventajas era tener todo disponible online y poder ahorrar tiempo en traslado.
+\item \textbf{Vicente:} Claro. Si hacemos como un balance general, para mí las clases remotas tenían más pros que contras porque al final es una herramienta que te sirve para aprender y digamos que dependiendo de la voluntad uno puede aprender desde cualquier lugar y no necesariamente en un espacio determinado (*hablando de presencialidad).
+\item \textbf{Benja:} Ya okay.
+\item \textbf{Benja:} Ya mencionaste algunas desventajas, pero para generalizarlo más ahora solamente mencióname desventajas de hacer estos ramos con modalidad remota.
+\item \textbf{Vicente:} Ya, principalmente la coordinación entre los profesores y los alumnos porque el profesor pretende hacer una clase y tener alumnos conectados y si los alumnos no se conectan entonces el profesor solamente hablará consigo mismo...
+\item \textbf{Vicente:} Todo eso parte de la base de que el alumno se va a conectar y hacer responsable y si no hace eso entonces como que falla toda la cadena de aprendizaje.
+\item \textbf{Benja:} Entiendo. Entonces va por el lado de que al final está todo disponible cuando se usa la modalidad remota y eso ayuda harto, pero por otro lado también es como un arma de doble filo porque al no estar en una sala viendo al profesor directamente puede haber gente que se desmotive y al final deje de lado todo.
+\item \textbf{Vicente:} Sí, por ejemplo otro de los problemas que me pasó a mí en un ramo fue que por ejemplo zoom deja las clases grabadas pero durante un tiempo, entonces lo que hacían algunos profesores era que permitían descargar las clases y las juntaban en un google drive.
+\item \textbf{Vicente:} Así todo el mundo las podía ver. En cambio, habían otros profesores que decían que uno tenía que verlas inmediatamente, entonces uno tenía dos semanas y les pasó a algunos que se olvidaban por cualquier motivo de verla y se atrasaban un montón y perdían contenido, aumentando de ahí los problemas.
+\item \textbf{Benja:} Perfecto.
+\item \textbf{Benja:} Y ahora una última pregunta, ¿qué cambiarías o crees que faltó para que tu experiencia fuera mejor en estos cursos remotos?.
+\item \textbf{Vicente:} Yo creo que faltó más participación, pero en el sentido de que hay cursos (sobre todo en la carrera que estudio de ingeniería) que son muy masivos.
+\item \textbf{Vicente:} Y con estos cursos a veces se requiere cierto grado de cercanía entre el profesor y el alumno para poder hacer preguntas o quedarse incluso conversando de cualquier otro tema actual, digamos como generando comunidad por así decirlo, y el problema era que acá tenía un horario establecido y luego el profesor hacía la clase y eso era todo.
+\item \textbf{Vicente:} Todo el componente de interacción era por el chat, donde por ejemplo en algunos cursos habíamos 150 conectados y eran puros saludos (por ejemplo "hola"), entonces no tenía ningún sentido y además los que revisaban el chat veían 100 mensajes que no decían mucha información y se perdían entre medio preguntas importantes que podrían haber ayudado a aprender alguna cosa que no se sabía por ejemplo.
+\item \textbf{Vicente:} Eso yo creo que falta mejorar, como una forma de filtrar los comentarios.
+\item \textbf{Benja:} Ya, es buena idea como el tema de tratar de promover esa interacción.
+\item \textbf{Vicente:} A mí en lo personal me pasó varias veces que yo quería hacer una pregunta al profesor y levantaba la mano en zoom (*con la feature para este fin), pero al final no me tocaba nunca porque sólo atendían a los 10 primeros (por temas de tiempo), y se perdía el sentido de hacer preguntas.
+\item \textbf{Benja:} Ya claro como que sería mucho mejor que esto estuviera más separado en canales dependiendo de dudas.
+\item \textbf{Vicente:} Claro pero por ejemplo hay algunos ramos como innovación donde habían ayudantes que estaban conectados en el chat y contestaban preguntas y eso fue súper bueno porque así el profesor se encargaba de hacer la clase sin perder el enfoque ni tiempo.
+\item \textbf{Benja:} Era bien eficiente.
+\item \textbf{Vicente:} Claro pero no todos los ramos lo hacían, ese era el problema.
+\item \textbf{Benja:} Ya perfecto.
+\item \textbf{Benja:} Bueno esa era la última pregunta que tenía Vicente así que muchas gracias por tu tiempo y por tus respuestas.
+\item \textbf{Vicente:} Yapo, de nada.
+\item \textbf{Benja:} Que tengas un buen resto del día.
+\item \textbf{Vicente:} Gracias.

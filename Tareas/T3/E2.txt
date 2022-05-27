@@ -1,0 +1,84 @@
+\item \textbf{Benja:} Hola bienvenido, ¿cómo estás?.
+\item \textbf{Lukas:} Hola hola bien y tú.
+\item \textbf{Benja:} Bien gracias.
+\item \textbf{Benja:} Bueno estamos aquí por una entrevista sobre interfaces y el uso de la tecnología para dictar cursos remotamente, es decir, las clases online, los trabajos online, etc... que tuviste en tu universidad.
+\item \textbf{Benja:} Entonces antes de comenzar te voy a preguntar por algunos datos que necesito.
+\item \textbf{Benja:} Primero, ¿cuál es tu nombre?.
+\item \textbf{Lukas:} Mi nombre completo es Lukas Rodríguez Walter.
+\item \textbf{Benja:} ¿Y qué edad tienes?.
+\item \textbf{Lukas:} Tengo 23 años.
+\item \textbf{Benja:} ¿Dónde vives?.
+\item \textbf{Lukas:} En este minuto estoy viviendo en Las Condes.
+\item \textbf{Benja:} ¿Cuál es tu carrera universitaria?.
+\item \textbf{Lukas:} Estoy estudiando ingeniería en administración de empresas mención marketing.
+\item \textbf{Benja:} ¿Y en qué universidad?.
+\item \textbf{Lukas:} En el instituto profesional DUOC UC.
+\item \textbf{Benja:} Perfecto. Ahora antes de pasar a las preguntas del tema, necesito que me des tu consentimiento para que esta entrevista sea grabada y después analizada para un trabajo.
+\item \textbf{Lukas:} Sí perfecto no hay problema.
+\item \textbf{Benja:} Muchas gracias.
+\item \textbf{Benja:} Entonces pasaremos a las preguntas del tema.
+\item \textbf{Benja:} Primero, ¿durante cuántos semestres tuviste principalmente cursos de modalidad remota hasta ahora?.
+\item \textbf{Lukas:} Al principio de pandemia estuve todo ese año con clases online, luego el año siguiente estuve full online todo un semestre, y el segundo semestre de ese año (*2021) estuve con clases mixtas.
+\item \textbf{Benja:} Ya perfecto.
+\item \textbf{Benja:} Entonces ya en este contexto online, ahora cuéntame sobre la herramientas cloud que usaste en tus cursos remotos, con esto me refiero a zoom, google meet y las típicas que se usan para videollamada.
+\item \textbf{Lukas:} Mira, para las clases el DUOC tenía el blackboard, ahí era donde se hacían las clases y nosotros nos metíamos.
+\item \textbf{Lukas:} Y ya cuando nosotros nos conectábamos con mis compañeros para hacer trabajos era a través de discord, esa era la aplicación que usamos para las tareas, proyectos, etc...
+\item \textbf{Benja:} Muy bien, y ahora respecto a estas herramientas que mencionaste, dime ¿qué tan útiles y cómodas las encontraste para trabajar en tus ramos?.
+\item \textbf{Lukas:} La verdad las encontré super buenas, bien simples. Blackboard que era donde nos conectábamos, nadie tenía problemas en meterse, incluso para los profesores mayores. Para los estudiantes fue fácil adaptarse. 
+\item \textbf{Benja:} Entonces eran en general eran fáciles de usar.
+\item \textbf{Lukas:} Sí.
+\item \textbf{Benja:} ¿Y tú creíste que suplían la falta de presencialidad, que eran eficaces para enseñarte y tú aprender?.
+\item \textbf{Lukas:} Claro que los profesores siempre tienen su metodología para enseñar, y quizás se les hizo un poco más difícil intentar expresarse de la misma manera que en las clases presenciales.
+\item \textbf{Lukas:} A nosotros quizás también dificulta un poco entender dado que al profesor le cuesta un poco más explicar.
+\item \textbf{Benja:} O sea fue bueno en general pero con sus pequeñas imperfecciones respecto a la realidad presencial.
+\item \textbf{Lukas:} Sí.
+\item \textbf{Benja:} Ya, ahora te pregunto lo mismo pero quiero que me cuentes en este caso sobre las herramientas web, con esto me refiero a páginas web o portales web, cualquier cosa que te metas por el navegador.
+\item \textbf{Lukas:} Nuestra universidad tenía una plataforma que se llama AVA.
+\item \textbf{Lukas:} Al principio costó un poco adaptarse porque no era muy agradable al meterse, buscar los trabajos era difícil, los profesores también tenían cada uno sus archivos en diferentes partes, entonces costó adaptarse.
+\item \textbf{Lukas:} Ya más adelante mejoraron la interfaz de la plataforma AVA y se solucionaron esos problemas.
+\item \textbf{Lukas:} La verdad para mí que no me cuesta tanto usar la tecnología nunca tuve un problema con no mandar un trabajo a tiempo por el tema de la plataforma, siempre se me hizo fácil.
+\item \textbf{Lukas:} Pero la plataforma hoy en día está bastante buena, desde ahí descargamos los archivos que mandan los profesores, podemos hablar con el profesor a través de un chat que es bastante rápido.
+\item \textbf{Benja:} Ah buena.
+\item \textbf{Benja:} Ya y en este caso la plataforma que mencionarte (*AVA), dijiste que en tu caso no afectó mucho pero probablemente a otras personas (quizás profesores mayores) si les costó.
+\item \textbf{Benja:} Entonces me gustaría que me cuentes específicamente qué cosas les podía costar aprender a usar.
+\item \textbf{Lukas:} Mira, la plataforma AVA se separa en hartas partes, como cursos, asistencia, notificaciones, mensajes. Y por ejemplo a veces pasaba que un profesor en vez de subir algo específicamente a su curso o materia actual, lo subía en otras actividades o apartados, lo que complicaba llegar al link que mandaba el profesor.
+\item \textbf{Lukas:} Simplemente porque el profesor no lo mandó correctamente.
+\item \textbf{Benja:} O sea tenías muchas páginas una dentro de otra...
+\item \textbf{Lukas:} Exacto. Por ejemplo te metías a matemática y te abría 5 secciones sobre las unidades, y esas a su vez habrían otros enlaces y se entorpecía el encontrar el archivo que uno busca.
+\item \textbf{Benja:} Ya, como por las categorías que tenía terminaba complicando, porque eran demasiadas.
+\item \textbf{Lukas:} Claro.
+\item \textbf{Lukas:} A algunos profesores casi que les convenía que manden las cosas al gmail, porque era más fácil que aprender a usar bien la plataforma (*que era demasiado enredada).
+\item \textbf{Benja:} Ya muy bien.
+\item \textbf{Benja:} Ahora hablando más generalmente. Respecto a estos semestres que tuviste, te quería preguntar ¿qué ventajas encontraste al tener cursos remotos respecto a haber tenido que ir presencialmente durante ese tiempo?.
+\item \textbf{Lukas:} Ya.
+\item \textbf{Lukas:} Ventajas... mira no sé si sea una ventaja, pero era muy cómodo/agradable levantarse de la cama a la silla y tener la clase ahí mismo. Para todos los que tienen viajes largos a sus universidades era mucho más rápido y eficaz.
+\item \textbf{Lukas:} Otra ventaja es que a través de una pantalla uno no sufre nerviosismo, habían personas que se explayaban mucho mejor a través de una pantalla en comparación a estando dentro de la sala presencialmente.
+\item \textbf{Lukas:} También buscar información instantánea es mucho mejor, cuando uno no sabe algún detalle específico y no quiere interrumpir al profesor, lo puede buscar en cosa de segundos.
+\item \textbf{Lukas:} Quizá entender la materia para mí haya sido un poco más fácil porque las clases quedan grabadas, entonces puedo volver a repetirlas cada vez que quiera.
+\item \textbf{Lukas:} Hoy en día con la vuelta a la presencialidad eso ya no es posible, si no anotaste algo o faltaste a una clase se pierde ese contenido y tienes que ponerte al día por tu cuenta.
+\item \textbf{Benja:} Ok. Encuentro que en varias partes también ha pasado eso, quizás sería bueno que siempre estuviera disponible una grabación de las clases para evitar esas complicaciones.
+\item \textbf{Benja:} Ya, ahora la misma pregunta que te hice sobre las ventajas pero esta vez quiero que menciones las desventajas que encontraste al tener cursos remotos.
+\item \textbf{Lukas:} Quizás cuando uno está con los compañeros y los compañeros no entienden y tú sí sabes del tema... a mí me pasó mucho que estábamos como en un ramo que yo sí sabía del tema y al intentar explicarles a través de una pantalla fue muy complicado resolver las dudas (siendo mucho más fácil hacer esto en persona con una pizarra o cuaderno).
+\item \textbf{Lukas:} Y lo mismo con los profesores, si quedaban dudas era más complejo resolverlas en comparación a estar presencialmente.
+\item \textbf{Benja:} Ya entonces la resolución de dudas/preguntas es una desventaja clara respecto a la modalidad clásica de clases.
+\item \textbf{Benja:} En general se tiene más comodidad y tiempo para hacer las cosas pero se pierde la posibilidad de aprender directo estando en la misma sala que el profesor (*y resolver dudas eficientemente).
+\item \textbf{Lukas:} Sí. También, cuando uno tiene todo al lado uno se relaja, y entonces puede decidir no ir a las clases y posponer las cosas (dado que puede ver las grabaciones).
+\item \textbf{Lukas:} Y al hacer eso no se está bien enfocado y las dudas no pueden ser resueltas al tiro.
+\item \textbf{Lukas:} Entonces cuando uno tiene la oportunidad de que las clases estén grabadas uno se relaja y quizá no se mete a tiempo o se queda dormido, etc...
+\item \textbf{Benja:} Al final depende mucho de cada persona y la situación también en sus casas, que puede ser que a uno le cueste concentrarse dependiendo del ambiente.
+\item \textbf{Lukas:} Ahhh también, una desventaja total es eso de que para una persona que es fácilmente distraída, tiene probablemete muchas más distracciones al estar desde la casa.
+\item \textbf{Benja:} Claro, y no hay nadie cerca tuyo como para darte la sensación de que no deberías estar desconcentrado.
+\item \textbf{Lukas:} Exacto.
+\item \textbf{Benja:} Ya entiendo. Y tengo una última pregunta, ya me mencionaste lo bueno y lo malo según tú, ahora quiero que menciones ¿qué cambiarías o crees que faltó para que tu experiencia fuera mejor en estos ramos remotos?.
+\item \textbf{Lukas:} A ver... quizás tener clases más interactivas, mas que pasar un ppt y que el profesor lo lea (que es algo que pasa cuando no existe la posibilidad de enseñar presencialmente en la sala).
+\item \textbf{Lukas:} Tener más material de clases para poder hacerlas más interactivas, por ejemplo en la web con links que permitan usar aplicaciones para hacer más interesante la clase.
+\item \textbf{Benja:} ¿Y por ejemplo no ocupaban de repente estas aplicaciones de pizarra digital?.
+\item \textbf{Lukas:} Blackboard tenía para dibujar encima, de hecho en las clases de estadística la profesora usaba su Ipad (*era profesora joven) para dibujar los cálculos (simulando la pizarra).
+\item \textbf{Lukas:} Eso era más interactivo y tenías que participar haciéndolo desde tu casa en tu cuaderno o computador.
+\item \textbf{Lukas:} Pero era sólo 1 profesora que hacía esto (de entre varios), por lo que quizás sería bueno simplificar la plataforma o tener capacitaciones para que todos los profesores puedan aprovechar estas funcionalidades interactivas.
+\item \textbf{Lukas:} Eso encuentro que sería bueno.
+\item \textbf{Benja:} Ya perfecto.
+\item \textbf{Benja:} Esa fue la última pregunta que tenía así que muchas gracias por tu tiempo y respuestas Lukas.
+\item \textbf{Lukas:} De nada.
+\item \textbf{Benja:} Que tengas un buen resto del día.
+\item \textbf{Lukas:} Igualmente, muchas gracias.
